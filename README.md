@@ -59,4 +59,4 @@ Dendrogram
      ↓
 Silhouette Score
      ↓
-Selection of Number of Clusters
+Selection of Number of Clusters  
